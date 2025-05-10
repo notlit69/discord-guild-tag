@@ -18,3 +18,7 @@ Correct Validation:
 ranges = [(10, 20), (60, 100), (150, 200), (600, 1000), (1500, 2000)]
 is_valid = any(start <= hash_value < end for start, end in valid_ranges)
 ```
+
+# Credits
+
+- notlit (`notlit_rc` on discord)
