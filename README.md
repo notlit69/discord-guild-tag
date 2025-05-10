@@ -1,6 +1,6 @@
 # NOTE: This only applies to guilds created before `5/9/2025, 12:30:00 AM IST`
 
-# How to get 10% rollout for `Server Tag` Instead of 0.5%?
+## How to get 10% rollout for `Server Tag` Instead of 0.5%?
 
 Hash calculation
 ```python
