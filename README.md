@@ -15,7 +15,7 @@ is_valid = (10 <= hash_value < 20) or (60 <= hash_value < 100)
 ```
 Correct Validation:
 ```python
-ranges = [(10, 20), (60, 100), (150, 200), (600, 1000), (1500, 2000)]
+valid_ranges = [(10, 20), (60, 100), (150, 200), (600, 1000), (1500, 2000)]
 is_valid = any(start <= hash_value < end for start, end in valid_ranges)
 ```
 
